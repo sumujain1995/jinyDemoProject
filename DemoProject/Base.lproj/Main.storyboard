@@ -97,7 +97,7 @@
                                         <rect key="frame" x="0.0" y="0.0" width="414" height="1000"/>
                                         <subviews>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="tJ7-50-o7n">
-                                                <rect key="frame" x="142.5" y="860" width="129" height="40"/>
+                                                <rect key="frame" x="142.5" y="710" width="129" height="40"/>
                                                 <color key="backgroundColor" systemColor="systemTealColor" red="0.35294117650000001" green="0.7843137255" blue="0.98039215690000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="40" id="YII-dt-rlz"/>
@@ -118,7 +118,7 @@
                                         </subviews>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                                         <constraints>
-                                            <constraint firstAttribute="bottom" secondItem="tJ7-50-o7n" secondAttribute="bottom" constant="100" id="8hX-rX-YoM"/>
+                                            <constraint firstAttribute="bottom" secondItem="tJ7-50-o7n" secondAttribute="bottom" constant="250" id="8hX-rX-YoM"/>
                                             <constraint firstAttribute="trailing" secondItem="lOk-SI-Oad" secondAttribute="trailing" constant="100" id="ABz-F5-LPs"/>
                                             <constraint firstAttribute="height" constant="1000" id="CrS-Ff-hwv"/>
                                             <constraint firstItem="lOk-SI-Oad" firstAttribute="top" secondItem="x8j-EP-dyl" secondAttribute="top" constant="100" id="L7R-xv-KVY"/>
